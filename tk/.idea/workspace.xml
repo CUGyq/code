@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb88a38f-7efe-4ad5-abcc-e2055107582f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tk$surface.coverage" NAME="surface Coverage Results" MODIFIED="1525938417244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tk$df.coverage" NAME="df Coverage Results" MODIFIED="1525663970932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tk$predict.coverage" NAME="predict Coverage Results" MODIFIED="1527140364995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tk$test.coverage" NAME="test Coverage Results" MODIFIED="1527140868484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tk$main.coverage" NAME="main Coverage Results" MODIFIED="1525582210414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tk$IMG.coverage" NAME="IMG Coverage Results" MODIFIED="1525767536435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12949">
+              <caret line="563" column="5" lean-forward="true" selection-start-line="563" selection-start-column="5" selection-end-line="563" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMG.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IMG.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="df.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/df.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1932">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="surface.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/surface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1886">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/df.py" />
+        <option value="$PROJECT_DIR$/surface.py" />
+        <option value="$PROJECT_DIR$/IMG.py" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/predict.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mask" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="IMG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IMG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="df" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/df.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="surface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/surface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.surface" />
+      <item itemvalue="Python.df" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.IMG" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.surface" />
+        <item itemvalue="Python.IMG" />
+        <item itemvalue="Python.df" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb88a38f-7efe-4ad5-abcc-e2055107582f" name="Default" comment="" />
+      <created>1525582030522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525582030522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3101197" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12834">
+          <caret line="564" column="25" selection-start-line="564" selection-start-column="25" selection-end-line="564" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12834">
+          <caret line="564" column="25" lean-forward="true" selection-start-line="564" selection-start-column="25" selection-end-line="564" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12627">
+          <caret line="549" column="16" lean-forward="true" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12765">
+          <caret line="555" column="22" selection-start-line="555" selection-start-column="22" selection-end-line="555" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4163">
+          <caret line="187" column="20" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13018">
+          <caret line="566" column="18" selection-start-line="566" selection-start-column="18" selection-end-line="566" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="101" column="66" selection-start-line="101" selection-start-column="66" selection-end-line="101" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10695">
+          <caret line="554" column="45" lean-forward="true" selection-start-line="554" selection-start-column="45" selection-end-line="554" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2461">
+          <caret line="107" column="42" lean-forward="true" selection-start-line="107" selection-start-column="42" selection-end-line="107" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10373">
+          <caret line="540" lean-forward="true" selection-start-line="540" selection-end-line="540" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2852">
+          <caret line="131" column="27" lean-forward="true" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt" />
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12949">
+          <caret line="563" column="5" lean-forward="true" selection-start-line="563" selection-start-column="5" selection-end-line="563" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
